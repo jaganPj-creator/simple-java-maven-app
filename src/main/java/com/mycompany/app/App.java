@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World! welcome to jenkins test with docker file";
+    private static final String MESSAGE = "Hello World! welcome to jenkins test with docker file maven jenkin";
 
     public App() {}
 
